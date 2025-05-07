@@ -1,0 +1,11 @@
+.pytest_cache
+.vscode
+/research
+*.log
+*.pyc
+__pycache__
+*.db
+*.sqlite3
+*.env
+*.DS_Store
+*.ipynb_checkpoints/
